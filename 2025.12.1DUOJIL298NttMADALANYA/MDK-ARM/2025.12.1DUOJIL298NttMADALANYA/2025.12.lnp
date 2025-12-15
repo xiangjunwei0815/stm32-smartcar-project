@@ -1,0 +1,28 @@
+--cpu Cortex-M3
+"2025.12.1duojil298nttmadalanya\startup_stm32f103xb.o"
+"2025.12.1duojil298nttmadalanya\main.o"
+"2025.12.1duojil298nttmadalanya\gpio.o"
+"2025.12.1duojil298nttmadalanya\dma.o"
+"2025.12.1duojil298nttmadalanya\tim.o"
+"2025.12.1duojil298nttmadalanya\usart.o"
+"2025.12.1duojil298nttmadalanya\stm32f1xx_it.o"
+"2025.12.1duojil298nttmadalanya\stm32f1xx_hal_msp.o"
+"2025.12.1duojil298nttmadalanya\stm32f1xx_hal_gpio_ex.o"
+"2025.12.1duojil298nttmadalanya\stm32f1xx_hal_tim.o"
+"2025.12.1duojil298nttmadalanya\stm32f1xx_hal_tim_ex.o"
+"2025.12.1duojil298nttmadalanya\stm32f1xx_hal.o"
+"2025.12.1duojil298nttmadalanya\stm32f1xx_hal_rcc.o"
+"2025.12.1duojil298nttmadalanya\stm32f1xx_hal_rcc_ex.o"
+"2025.12.1duojil298nttmadalanya\stm32f1xx_hal_gpio.o"
+"2025.12.1duojil298nttmadalanya\stm32f1xx_hal_dma.o"
+"2025.12.1duojil298nttmadalanya\stm32f1xx_hal_cortex.o"
+"2025.12.1duojil298nttmadalanya\stm32f1xx_hal_pwr.o"
+"2025.12.1duojil298nttmadalanya\stm32f1xx_hal_flash.o"
+"2025.12.1duojil298nttmadalanya\stm32f1xx_hal_flash_ex.o"
+"2025.12.1duojil298nttmadalanya\stm32f1xx_hal_exti.o"
+"2025.12.1duojil298nttmadalanya\stm32f1xx_hal_uart.o"
+"2025.12.1duojil298nttmadalanya\system_stm32f1xx.o"
+--strict --scatter "2025.12.1DUOJIL298NttMADALANYA\2025.12.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "2025.12.map" -o 2025.12.1DUOJIL298NttMADALANYA\2025.12.1DUOJIL298NttMADALANYA

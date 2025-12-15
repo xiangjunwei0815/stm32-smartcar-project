@@ -1,0 +1,14 @@
+# STM32 常见忽略文件
+Debug/
+Release/
+*.o
+*.d
+*.dep
+*.map
+*.hex
+*.axf
+*.crf
+.vscode/
+*.uvguix.*
+*.uvoptx
+*.uvprojx.tmp
